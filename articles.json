@@ -1,0 +1,16 @@
+[
+  {
+    "id": "1",
+    "title": "Nadal remporte Roland Garros",
+    "content": "Rafael Nadal a gagné son 14ème titre à Roland Garros...",
+    "date": "2025-06-08T15:30:00Z",
+    "isHidden": false
+  },
+  {
+    "id": "2",
+    "title": "Djokovic numéro 1 mondial",
+    "content": "Novak Djokovic reprend la première place du classement ATP...",
+    "date": "2025-07-01T10:00:00Z",
+    "isHidden": false
+  }
+]
